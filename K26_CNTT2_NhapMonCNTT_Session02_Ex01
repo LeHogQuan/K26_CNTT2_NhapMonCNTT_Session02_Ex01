@@ -1,0 +1,6 @@
+Phần 1: 
+Sai 1: Lưu bài tập ở ổ C. Khi cài lại Windows và  ổ C, dữ liệu có nguy cơ bị mất
+Sai 2: Lưu file trong window/systems32. Đây là thư mục hệ thống, không phù hợp để lưu bài tập cá nhân
+Sai 3: Đặt tên thư mục có khoảng trắng dễ gây lỗi khi nhập lệnh Terminal nếu không xử lý đúng
+Phần 2: sửa lỗi
+D:\rikkei\nhap mon CNTT\session 02\bai1.py
